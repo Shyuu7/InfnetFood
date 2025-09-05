@@ -51,14 +51,14 @@ npm test
 
 | Cor            | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Red | ![#D61728](https://via.placeholder.com/10/D61728?text=+) #D61728 |
-| Yellow | ![#F2B603](https://via.placeholder.com/10/F2B603?text=+) #F2B603 |
-| Golden Yellow | ![#A87B03](https://via.placeholder.com/10/A87B03?text=+) #A87B03 |
-| Dark Red | ![#3E0102](https://via.placeholder.com/10/3E0102?text=+) #3E0102 |
-| Dark Gray | ![#0C0C0D](https://via.placeholder.com/10/0C0C0D?text=+) #0C0C0D |
-| White | ![#FFFFFF](https://via.placeholder.com/10/ffffff?text=+) #FFFFFFF |
+| Red | ![#D61728](https://placehold.co/20x20/D61728/D61728.png)   `#D61728`|
+| Yellow | ![#F2B603](https://placehold.co/20x20/F2B603/F2B603.png) `#F2B603`|
+| Golden Yellow | ![#A87B03](https://placehold.co/20x20/A87B03/A87B03.png) `#A87B03` |
+| Dark Gray | ![#0C0C0D](https://placehold.co/20x20/0C0C0D/0C0C0D.png) `#0C0C0D` |
+| Dark Red | ![#3E0102](https://placehold.co/20x20/3E0102/3E0102.png) `#3E0102` |
+| White | ![#FFFFFF](https://placehold.co/20x20/FFFFFF/FFFFFF.png) `#FFFFFFF` |
 
-##Screenshots
+## Screenshots
 
 ![image](https://github.com/user-attachments/assets/2c0ce874-b0ca-4a0e-a4bd-c31b21bccf9f)
 
